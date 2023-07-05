@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Yellowtail', cursive;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+}
+
+.campo{
+    width: 200px;
+    height: 37px;
+
+}
+
+.pesquisa{
+    font-weight: 153px;
+    font-size: 22px;
+}
